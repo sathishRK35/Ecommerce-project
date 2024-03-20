@@ -333,9 +333,10 @@ footer h3 {
         flex: none;
     }
     .sigin-wrapper {
-        width: 350px;
+        width: 300px;
         flex-direction: column;
         margin-top: 50px;
+        padding: 20px;
     }
    
     .signin , .signup{
