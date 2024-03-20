@@ -328,8 +328,8 @@ footer h3 {
         padding: 20px;
     }
     .review-wrapper .review-box {
-        width: 300px;
-        box-sizing: content-box;
+        width: 250px;
+        box-sizing: border-box;
         flex: none;
     }
     .sigin-wrapper {
@@ -337,6 +337,7 @@ footer h3 {
         flex-direction: column;
         margin-top: 50px;
         padding: 20px;
+        justify-content: center;
     }
    
     .signin , .signup{
